@@ -1,0 +1,66 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#FFF8E1"/>
+  <rect x="36" y="32" width="1368" height="120" rx="28" fill="url(#paint0_linear)"/>
+  <text x="72" y="78" fill="#7A5700" font-family="Segoe UI, Arial" font-size="18" font-weight="700">CONTROL PANEL</text>
+  <text x="72" y="118" fill="#2F2400" font-family="Segoe UI, Arial" font-size="34" font-weight="800">OpenAI 注册账号面板</text>
+  <text x="72" y="146" fill="#5F4D16" font-family="Segoe UI, Arial" font-size="16">账号列表、运行日志、单独配置窗口、单文件 GUI 发布</text>
+  <rect x="1014" y="64" width="120" height="44" rx="14" fill="#2A2111"/>
+  <text x="1042" y="92" fill="#FFF4D1" font-family="Segoe UI, Arial" font-size="16" font-weight="700">运行配置</text>
+  <rect x="1148" y="64" width="116" height="44" rx="14" fill="#FFCB2F"/>
+  <text x="1180" y="92" fill="#352500" font-family="Segoe UI, Arial" font-size="16" font-weight="700">开始注册</text>
+  <rect x="1278" y="64" width="82" height="44" rx="14" fill="#FFF2C6" stroke="#D8B44E"/>
+  <text x="1306" y="92" fill="#5E4500" font-family="Segoe UI, Arial" font-size="16" font-weight="700">停止</text>
+
+  <rect x="36" y="176" width="420" height="120" rx="24" fill="#FFF0BA" stroke="#EFD37C"/>
+  <rect x="474" y="176" width="420" height="120" rx="24" fill="#F5EBB7" stroke="#EFD37C"/>
+  <rect x="912" y="176" width="492" height="120" rx="24" fill="#FFE39B" stroke="#EFD37C"/>
+  <text x="64" y="214" fill="#806200" font-family="Segoe UI, Arial" font-size="14" font-weight="700">账号总数</text>
+  <text x="64" y="262" fill="#2F2400" font-family="Segoe UI, Arial" font-size="40" font-weight="800">128</text>
+  <text x="64" y="286" fill="#746138" font-family="Segoe UI, Arial" font-size="14">当前 tokens 目录中的账号数</text>
+  <text x="502" y="214" fill="#806200" font-family="Segoe UI, Arial" font-size="14" font-weight="700">有效 Token</text>
+  <text x="502" y="262" fill="#2F2400" font-family="Segoe UI, Arial" font-size="40" font-weight="800">94</text>
+  <text x="502" y="286" fill="#746138" font-family="Segoe UI, Arial" font-size="14">按到期时间判断仍有效</text>
+  <text x="940" y="214" fill="#806200" font-family="Segoe UI, Arial" font-size="14" font-weight="700">最近导入</text>
+  <text x="940" y="262" fill="#2F2400" font-family="Segoe UI, Arial" font-size="26" font-weight="800">emma41d@example.com</text>
+  <text x="940" y="286" fill="#746138" font-family="Segoe UI, Arial" font-size="14">最近一次导入的账号</text>
+
+  <rect x="36" y="320" width="914" height="540" rx="24" fill="#FFFCF0" stroke="#EFD37C"/>
+  <text x="64" y="362" fill="#523D00" font-family="Segoe UI, Arial" font-size="24" font-weight="800">已注册账号</text>
+  <rect x="64" y="388" width="360" height="44" rx="14" fill="#FFFDF3" stroke="#E7C865"/>
+  <text x="84" y="416" fill="#8A7642" font-family="Segoe UI, Arial" font-size="15">搜索邮箱、账号 ID 或文件名</text>
+  <rect x="64" y="450" width="858" height="52" rx="14" fill="#F8DF86"/>
+  <text x="88" y="483" fill="#5D4500" font-family="Segoe UI, Arial" font-size="16" font-weight="700">邮箱</text>
+  <text x="334" y="483" fill="#5D4500" font-family="Segoe UI, Arial" font-size="16" font-weight="700">账号 ID</text>
+  <text x="598" y="483" fill="#5D4500" font-family="Segoe UI, Arial" font-size="16" font-weight="700">到期时间</text>
+  <text x="784" y="483" fill="#5D4500" font-family="Segoe UI, Arial" font-size="16" font-weight="700">文件名</text>
+  <rect x="64" y="520" width="858" height="60" rx="12" fill="#FFF7D4"/>
+  <text x="88" y="557" fill="#392B00" font-family="Consolas, monospace" font-size="15">alice41d@cloudvxz.com</text>
+  <text x="334" y="557" fill="#392B00" font-family="Consolas, monospace" font-size="15">c3d2-59c4-0444...</text>
+  <text x="598" y="557" fill="#392B00" font-family="Consolas, monospace" font-size="15">2026-04-03T01:01:26Z</text>
+  <text x="784" y="557" fill="#392B00" font-family="Consolas, monospace" font-size="15">token_alice.json</text>
+  <rect x="64" y="592" width="858" height="60" rx="12" fill="#FFFDF6"/>
+  <text x="88" y="629" fill="#392B00" font-family="Consolas, monospace" font-size="15">bob41d@hush2u.com</text>
+  <text x="334" y="629" fill="#392B00" font-family="Consolas, monospace" font-size="15">b7fd-10f2-11ac...</text>
+  <text x="598" y="629" fill="#392B00" font-family="Consolas, monospace" font-size="15">2026-04-04T08:13:10Z</text>
+  <text x="784" y="629" fill="#392B00" font-family="Consolas, monospace" font-size="15">token_bob.json</text>
+
+  <rect x="974" y="320" width="430" height="540" rx="24" fill="#FFFCF0" stroke="#EFD37C"/>
+  <text x="1002" y="362" fill="#523D00" font-family="Segoe UI, Arial" font-size="24" font-weight="800">运行日志</text>
+  <rect x="1002" y="388" width="374" height="430" rx="18" fill="#2C2415"/>
+  <text x="1028" y="424" fill="#F7DD88" font-family="Consolas, monospace" font-size="15">[09:45:12] 开始执行注册任务</text>
+  <text x="1028" y="454" fill="#F7DD88" font-family="Consolas, monospace" font-size="15">[09:45:13] 临时邮箱获取成功: alice...</text>
+  <text x="1028" y="484" fill="#F7DD88" font-family="Consolas, monospace" font-size="15">[09:45:18] 收到验证码: 184201</text>
+  <text x="1028" y="514" fill="#F7DD88" font-family="Consolas, monospace" font-size="15">[09:45:30] 注册成功，Token 已保存</text>
+  <text x="1028" y="544" fill="#F7DD88" font-family="Consolas, monospace" font-size="15">[09:45:31] 本轮结束，等待 12 秒后继续</text>
+  <rect x="1002" y="832" width="120" height="40" rx="14" fill="#FFF2C6" stroke="#D8B44E"/>
+  <text x="1034" y="857" fill="#5E4500" font-family="Segoe UI, Arial" font-size="15" font-weight="700">清空日志</text>
+  <rect x="1138" y="832" width="120" height="40" rx="14" fill="#FFF2C6" stroke="#D8B44E"/>
+  <text x="1170" y="857" fill="#5E4500" font-family="Segoe UI, Arial" font-size="15" font-weight="700">保存日志</text>
+
+  <defs>
+    <linearGradient id="paint0_linear" x1="36" y1="32" x2="1404" y2="152" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFD24D"/>
+      <stop offset="1" stop-color="#FFEFAD"/>
+    </linearGradient>
+  </defs>
+</svg>
