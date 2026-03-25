@@ -1,7 +1,6 @@
 <p align="center">
   <h1>OpenAI Reg GUI</h1>
   <p>轻量的图形界面版本，下载后直接运行。</p>
-  <p>这个仓库现在按“成品发布”使用，不要求用户安装 Python，也不要求用户阅读源码。</p>
   <img src="icon.png" alt="OpenAI Reg GUI Icon" width="120" />
 </p>
 
@@ -18,7 +17,6 @@
 可用文件：
 
 - `release/windows/codex-man.exe`
-- `release/windows/codex-man-windows.zip`
 
 使用步骤：
 
@@ -75,12 +73,3 @@ chmod +x ./codex-man
 - `release/` 里的打包结果
 
 源码、缓存、构建中间文件都不需要上传。
-
-## 跨平台说明
-
-- Windows 版本需要在 Windows 上打包
-- Linux 版本需要在 Linux 上打包
-- macOS 版本需要在 macOS 上打包
-
-不能在一个系统里直接产出另一个系统可运行的原生包。
-# codex-man
